@@ -1,2 +1,3 @@
 # Application_Materials
-My application materials for fellowships and societies shared publicly to guide others
+
+This repository shares my successfull application materials for various fellowships and societies. When applying, I drew guidance and inspiration from others' shared material to understand how to format and best communicate my ideas. I now return the favor by making my applications available. I hope they help you create the best possible application material. If you need any further information, please feel free to reach out to me (e-mail: mam737@cornell.edu, twitter: @ManishaMuna)
